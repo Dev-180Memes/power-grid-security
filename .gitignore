@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# Model files
+*.pkl
+*.h5
+
+# Data files
+*.csv
+*.xlsx
+*.db
+
+# OS specific
+.DS_Store
